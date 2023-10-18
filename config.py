@@ -3,8 +3,8 @@ OUTPUT_FILEPATH = ""            # path to output directory
 
 K = 5                           # k-fold cross-validation
 IDEAL_PORTION_FEATURES = 0.01   # ideal portion of features to be selected: 0-1
-POPULATION_SIZE = 5             # population size
-ITERATION_NUM = 3               # number of iteration
+POPULATION_SIZE = 30            # population size
+ITERATION_NUM = 100             # number of iteration
 F = 0.8                         # mutation rate: 0-1
 CR = 0.8                        # crossover rate: 0-1
 
